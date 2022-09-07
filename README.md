@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Web Development </>
 - 🌱 I’m currently pursuing Masters in Applied Computer Science from Northwest Missouri State University
+- 🔭 I’m currently working on Web Development </>
+
