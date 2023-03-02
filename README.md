@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently pursuing Masters in Applied Computer Science from Northwest Missouri State University
-- 🔭 I’m currently working on Web Development </>
+- 🔭 working on Web Development </>
 
