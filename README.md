@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 - 🌱 I’m currently pursuing Masters in Applied Computer Science from Northwest Missouri State University
 - 🔭 working on Web Development </>
+- 🤔 I’m looking for a web development internship
 - 📫 How to reach me: pr45h4n7h_r3ddy
+- 
