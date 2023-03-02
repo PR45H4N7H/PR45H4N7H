@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🔭 working on Web Development </>
 - 🤔 I’m looking for a web development internship
 - 📫 How to reach me: pr45h4n7h_r3ddy
-- 
