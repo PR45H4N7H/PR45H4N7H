@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web Development </>
+- 🔭 working on Web Development </>
 - 🌱 I’m currently pursuing Masters in Applied Computer Science from Northwest Missouri State University
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Advanced Java
