@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 - 🔭 working on Web Development </>
 - 🌱 Northwest Missouri State University Alumini
-- 🤔 I’m looking for .NET Developer and JAVA full stack roles
+- 🤔 I’m looking out for .NET Developer and JAVA full stack roles
 - 📫 How to reach me: pr45h4n7h_r3ddy
 
